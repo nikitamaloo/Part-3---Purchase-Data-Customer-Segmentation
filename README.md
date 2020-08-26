@@ -7,13 +7,6 @@
 * **Mid Value:** In the middle of everything. Often using our platform (but not as much as our High Values), fairly frequent and generates moderate revenue.
 * **Low Value:** Customers who are less active than others, not very frequent buyer/visitor and generates very low - zero - maybe negative revenue.
 
-### Understanding The Segments
-* **High Value:**  This segment include the customers who have purchased recently. There are customers who generate more revenue and are also frequent buyers. We can say it has our **Champions** or **Loyal Customers**. They are precious to the business and we should keep in touch with them.
-
-* **Mid Value:** This segment include customers who have purchased items somewhat recently are moderately frequent and have generated moderate revenue. These customers will have new customers who recently started buying from us. This segment will also comprise of potential loyalists.
-
-* **Low Value:** This is the most risky segment for the company as it comprises mostly of **Lost Customers or Hibernating Customers**. Most of the customers in this  group are not active as they didnt buy anything recently, not making much revenue for the company and also do not buy frequently.
-
 ### Recommendations 
 * **High Value:**  
 * Take feedbacks from these customers (and use it to improve business) . 
@@ -30,3 +23,10 @@
 * Make an attempt to re-engage them by sending them crazy lucrative offers to get them back. 
 * Make them feel valued by sending personalized recommendations and offers based on their past purchase behaviour.
  
+
+### Understanding The Segments
+* **High Value:**  This segment include the customers who have purchased recently. There are customers who generate more revenue and are also frequent buyers. We can say it has our **Champions** or **Loyal Customers**. They are precious to the business and we should keep in touch with them.
+
+* **Mid Value:** This segment include customers who have purchased items somewhat recently are moderately frequent and have generated moderate revenue. These customers will have new customers who recently started buying from us. This segment will also comprise of potential loyalists.
+
+* **Low Value:** This is the most risky segment for the company as it comprises mostly of **Lost Customers or Hibernating Customers**. Most of the customers in this  group are not active as they didnt buy anything recently, not making much revenue for the company and also do not buy frequently.
