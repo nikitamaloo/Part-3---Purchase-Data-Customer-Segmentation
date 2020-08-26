@@ -8,18 +8,9 @@
 * **Low Value:** Customers who are less active than others, not very frequent buyer/visitor and generates very low - zero - maybe negative revenue.
 
 ### Recommendations 
-* **High Value:**  
-* Take feedbacks from these customers (and use it to improve business) . 
-* As this group is the most profitable for the company ask for their prefernces and personalize offers to keep them happy and satisfied. 
-* Target them to join the Loyalty Program.
-* Focus to retain them as loyal customers over years is top priority.
+* **High Value:** Take feedbacks from these customers (and use it to improve business). As this group is the most profitable for the company ask for their prefernces and personalize offers to keep them happy and satisfied. Target them to join the Loyalty Program. Focus to retain them as loyal customers over years is top priority.
 
-* **Mid Value:** 
-* As this group comprises of new customers alao , it is important to keep them engaged. 
-* Send them incentivized offers to get more orders from this group.
+* **Mid Value:** As this group comprises of new customers alao , it is important to keep them engaged. Send them incentivized offers to get more orders from this group.
 
-* **Low Value:** 
-* This group has valuable customers who stopped transacting a long time ago. 
-* Make an attempt to re-engage them by sending them crazy lucrative offers to get them back. 
-* Make them feel valued by sending personalized recommendations and offers based on their past purchase behaviour.
+* **Low Value:** This group has valuable customers who stopped transacting a long time ago. Make an attempt to re-engage them by sending them crazy lucrative offers to get them back. Make them feel valued by sending personalized recommendations and offers based on their past purchase behaviour.
  
